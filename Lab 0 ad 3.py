@@ -1,6 +1,6 @@
 
-a = float(input("Podaj bok a prostokąta "))
-b = float(input("Podaj bok b prostokąta "))
+a = float(input("Podaj bok a prostokąta w cm "))
+b = float(input("Podaj bok b prostokąta w cm "))
 p = a * b
 obw = 2 * a + 2 * b
-print("Pole prostokąta to " + str(p) + " a obwód prostokąta to " + str(obw))
+print(f"Pole prostokąta to {p}cm^2 a obwód prostokąta to {obw}cm")

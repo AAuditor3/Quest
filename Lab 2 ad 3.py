@@ -4,7 +4,7 @@ while True:
 
         if number < 0:
             print("Wprowadzono liczbę ujemną. Koniec programu.")
-            break  # Wyjście z pętli
+            break
         else:
             print(f"Wprowadzono: {number}")
 

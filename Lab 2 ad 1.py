@@ -12,3 +12,4 @@ while lowNum < highNum:
 else:
    print("Zrobione!")
 print(f"Liczby są równe {lowNum} {highNum}")
+#

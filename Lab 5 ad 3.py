@@ -8,3 +8,4 @@ while czas > 0:
     czas -= 1
 
 print("Czas minął!")
+
